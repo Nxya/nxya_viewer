@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NxyaViewer::Renderer.copyright 'Alex Brown', 'All rights reserved'
+```
 
 ## Development
 
